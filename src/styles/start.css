@@ -1,0 +1,6 @@
+.start__wrapper{
+    display: flex;
+    justify-content: center;
+    column-gap: 3rem;
+    align-items: center;
+}
