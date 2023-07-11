@@ -1,0 +1,15 @@
+.pricing__top{
+    text-align: center;   
+}
+
+.pricing__top h2{
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.pricing__top p{
+    font-size: 1.1rem;
+    color: var(--heading-color);
+    line-height: 28px;
+    
+}

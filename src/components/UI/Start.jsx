@@ -11,7 +11,9 @@ const Start = () => {
             <img src={trainerImg} alt="" />
           </div>
           <div className="start__content">
-            <h2 className="section__title">Ready to make a change?</h2>
+            <h2 className="section__title">
+              Ready to make a <spam className="highlights">change?</spam>
+            </h2>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               Praesentium labore ipsam amet nam cumque temporibus quas iste.
